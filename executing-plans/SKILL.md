@@ -28,7 +28,6 @@ Execute an existing plan task-by-task with strong clarity, minimal change, and v
 - Restate the step goal in plain language.
 - Open/inspect only the files listed in the task.
 - Follow the plan steps in order (test → run → implement → run → checklist).
-- **Do not commit.** If the plan includes commit steps, skip them and note the skip.
 - Use minimal changes to satisfy the step; avoid refactors unless explicitly required.
 - If a new file or modification seems necessary but not listed, ask first.
 
