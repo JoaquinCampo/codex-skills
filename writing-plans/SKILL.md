@@ -42,6 +42,16 @@ Assume they are a skilled developer, but know almost nothing about our toolset o
 
 **Tech Stack:** [Key technologies/libraries]
 
+**Files to Understand:**
+
+Before starting, read and understand these files to get context:
+
+- `exact/path/to/file.py` - [Brief reason why this file matters]
+- `exact/path/to/file.py:123-145` - [Brief reason if only specific lines matter]
+- `exact/path/to/another/file.py` - [Brief reason]
+
+_(If no prerequisite files exist, omit this section or note "None - this is a new feature with no dependencies.")_
+
 ---
 ```
 
@@ -96,6 +106,7 @@ git commit -m "feat: add specific feature"
 - Complete code in plan (not "add validation")
 - Exact commands with expected output
 - Reference relevant skills by name (if installed)
+- List all prerequisite files to understand before starting tasks
 - DRY, YAGNI, TDD, frequent commits
 
 ## Execution Handoff
